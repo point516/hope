@@ -1,2 +1,3 @@
-# hope
+# hope (crashed hopes(()
 Professional esports matches predictor v2.0. I gathered yet another dataset but, this time, it aligns more with my perception of 'complete' dataset for predicting.
+#### Update: Updated dataset. In total there were 807 matches. Tried bunch of ML models, some classic ML models from SKlearn did not really work since they are not fine-tunable, at least, in my case. Worked with popular gradient boosting methods (XGBoost, CatBoost, LighGBM) but, even after thorough fine-tuning, the accuracy was 51-52% which is basically random guessing. So, idea about predicting outcomes of Counter-Strike is buried for now.
